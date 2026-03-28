@@ -52,7 +52,7 @@ I completed the "Solve Me First" challenge on HackerRank using C++.
 ### Part B: Google Form Quiz
 I created a Digital Literacy Awareness Quiz with 5 questions.
 
-**Google Form Link:** [Click here to take the quiz](https://docs.google.com/forms/d/e/your-form-link-here)
+**Google Form Link:** https://docs.google.com/spreadsheets/d/1yd_jBbzNSAfptf-O4byekhEkzDVDww9GPlQpbdTW_2o/edit?usp=sharing
 
 **Screenshots:** `task-3-platforms/google-form.png` and `task-3-platforms/google-sheet.png`
 
