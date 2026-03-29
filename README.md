@@ -65,7 +65,7 @@ I drafted two professional emails:
 1. Email to professor requesting assignment extension
 2. Email to internship coordinator expressing interest
 
-**File location:** `task-4-email-etiquette/professional-emails.pdf`
+**File location:** `task-4-email-etiquette/professional-emails.docx
 
 ### Part B: Social Media Do's and Don'ts
 I created a checklist of responsible social media practices for college students.
